@@ -4,7 +4,7 @@ package sp.statsplayer.StatsPlayer.model;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+//model
 @Entity
 @Table(name="stats")
 public class Stats {

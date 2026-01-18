@@ -9,7 +9,7 @@ import sp.statsplayer.StatsPlayer.repository.StatsRepository;
 
 import java.util.List;
 import java.util.Optional;
-
+//crud
 @RestController
 @RequestMapping("/api/stats")
 public class StatsController {
